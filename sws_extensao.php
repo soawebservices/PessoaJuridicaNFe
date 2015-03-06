@@ -1,6 +1,5 @@
 /*
 Especial agradecimento a Gustavo Gatto (inbox@gustavogatto.net)
-
 */
 <?php
 
