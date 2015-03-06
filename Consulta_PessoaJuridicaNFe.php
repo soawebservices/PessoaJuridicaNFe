@@ -32,18 +32,6 @@ echo 'Status				        :' . $pjnfe->Status . "\n";
 
 echo "\n----------------------------------------------------------------------\n\n\n";
 
-/* CNAES Desabilitados RFB nao esta mais apresentando os CNAES
-	echo "\n\n\n";
-	echo "----------------------------------------------------------------------\n";
-	echo "CNAES\n";
-	echo "----------------------------------------------------------------------\n";
-	foreach ($pjnfe->CNAES as $CNAES)
-	{
-		echo 'CNAE  		: ' . $CNAES->CNAE . "\n";
-		echo 'Descricao	: ' . $CNAES->CNAEDescricao . "\n";
-	}
-*/
-
 
 echo "\n\n\n";
 echo "----------------------------------------------------------------------\n";
